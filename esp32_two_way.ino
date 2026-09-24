@@ -63,7 +63,7 @@ void setup() {
   Serial.begin(115200);
   
   // REMEMBER TO UPDATE YOUR WIFI CREDS HERE
-  set_microros_wifi_transports("YOUR_WIFI_SSID", "YOUR_WIFI_PASSWORD", "10.78.121.82", 8888);
+  set_microros_wifi_transports("AMR", "AMR@ARTL", "192.168.0.103", 8888);
   
   pinMode(LED_PIN, OUTPUT);
   digitalWrite(LED_PIN, HIGH);  

@@ -1,6 +1,8 @@
 # Autonomous Mobile Robot (AMR) - ESP32 & Raspberry Pi micro-ROS Integration
 
-**RASP PI IP (Anuj):** 10.78.121.82
+**Wi-Fi SSID:** AMR  
+**Wi-Fi Password:** AMR@ARTL  
+**RASP PI IP:** 192.168.0.103
 
 This document chronicles the step-by-step process of establishing a flawless two-way ROS 2 communication bridge between an ESP32 microcontroller and a Raspberry Pi using micro-ROS over Wi-Fi (UDP). 
 
